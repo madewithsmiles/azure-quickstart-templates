@@ -1,0 +1,2 @@
+[![Release Status](https://msazure.vsrm.visualstudio.com/_apis/public/Release/badge/b32aa71e-8ed2-41b2-9d77-5bc261222004/23665/143801)](https://msazure.vsrm.visualstudio.com/_apis/public/Release/badge/b32aa71e-8ed2-41b2-9d77-5bc261222004/23665/143801)
+<!-- [![Build Status](https://dev.azure.com/ngdiarra/FirstAzureDevOpsPipeline/_apis/build/status/madewithsmiles.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ngdiarra/FirstAzureDevOpsPipeline/_build/latest?definitionId=1&branchName=master) -->
